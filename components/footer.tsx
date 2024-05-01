@@ -83,13 +83,6 @@ export default function Footer() {
           rel="noopener noreferrer"
           className="mx-2 text-gray-500 hover:text-gray-600"
         >
-          <LinkedinLogo size={24} />
-        </Link>
-        <Link
-          href="#"
-          rel="noopener noreferrer"
-          className="mx-2 text-gray-500 hover:text-gray-600"
-        >
           <LinktreeLogo size={24} />
         </Link>
       </div>
